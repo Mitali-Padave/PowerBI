@@ -60,10 +60,9 @@ Concentrate outbound spend on **cellular contact** to **prior-success and high-p
 
 ## Dashboard Preview
 **Dashboard**
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
-**Key Influencers**
-![Key Influencers](images/key-influencers.png)
+![Key Influencers](key-influencers.png)
 
 ## How to Use
 1. Download `Bank_Marketing_Campaign_Analysis.pbix`
