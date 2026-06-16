@@ -62,6 +62,7 @@ Concentrate outbound spend on **cellular contact** to **prior-success and high-p
 **Dashboard**
 ![Dashboard](dashboard.png)
 
+**Key Influencers**
 ![Key Influencers](key-influencers.png)
 
 ## How to Use
